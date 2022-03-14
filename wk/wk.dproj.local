@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/10 10:10:06.000.121,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 15:59:39.000.183,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 13:53:23.000.425,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/10 14:51:48.000.989,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\TESTE\WK\wk.principal.dfm</Transaction>
+    <Transaction>2022/03/10 14:51:48.000.989,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\TESTE\WK\wk.principal.pas</Transaction>
+    <Transaction>2022/03/10 14:51:55.000.084,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\TESTE\WK\wk.dproj</Transaction>
+    <Transaction>2022/03/10 14:53:20.000.690,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/10 14:54:04.000.750,C:\TESTE\WK\Unit1.dfm=C:\TESTE\WK\wk.dm.principal.dfm</Transaction>
+    <Transaction>2022/03/10 14:54:04.000.750,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\wk.dm.principal.pas</Transaction>
+    <Transaction>2022/03/11 08:52:38.000.074,C:\TESTE\WK\wk.principal.pas=C:\TESTE\WK\view\wk.view.principal.pas</Transaction>
+    <Transaction>2022/03/11 08:52:38.000.074,C:\TESTE\WK\wk.principal.dfm=C:\TESTE\WK\view\wk.view.principal.dfm</Transaction>
+    <Transaction>2022/03/11 08:52:55.000.770,C:\TESTE\WK\wk.dm.principal.pas=C:\TESTE\WK\dao\wk.dao.principal.pas</Transaction>
+    <Transaction>2022/03/11 08:52:55.000.770,C:\TESTE\WK\wk.dm.principal.dfm=C:\TESTE\WK\dao\wk.dao.principal.dfm</Transaction>
+    <Transaction>2022/03/11 08:57:26.000.523,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 08:57:57.000.852,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\controller\wk.controller.produto.pas</Transaction>
+    <Transaction>2022/03/11 08:58:53.000.779,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 08:59:00.000.526,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\model\wk.model.produto.pas</Transaction>
+    <Transaction>2022/03/11 09:00:12.000.856,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 09:02:43.000.299,=C:\TESTE\WK\Unit2.pas</Transaction>
+    <Transaction>2022/03/11 09:02:53.000.167,C:\TESTE\WK\Unit2.pas=C:\TESTE\WK\dao\wk.dao.produto.pas</Transaction>
+    <Transaction>2022/03/11 09:02:53.000.167,C:\TESTE\WK\Unit2.dfm=C:\TESTE\WK\dao\wk.dao.produto.dfm</Transaction>
+    <Transaction>2022/03/11 10:35:08.000.150,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 10:35:24.000.469,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\wk.Constantes.pas</Transaction>
+    <Transaction>2022/03/11 10:39:00.000.834,C:\TESTE\WK\wk.Constantes.pas=</Transaction>
+    <Transaction>2022/03/11 11:20:18.000.260,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 11:20:30.000.167,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\view\wk.view.mensagem.pas</Transaction>
+    <Transaction>2022/03/11 11:32:10.000.433,=C:\TESTE\WK\Unit2.pas</Transaction>
+    <Transaction>2022/03/11 11:34:10.000.113,C:\TESTE\WK\Unit2.dfm=C:\TESTE\WK\dao\wk.dao.pedido.dfm</Transaction>
+    <Transaction>2022/03/11 11:34:10.000.113,C:\TESTE\WK\Unit2.pas=C:\TESTE\WK\dao\wk.dao.pedido.pas</Transaction>
+    <Transaction>2022/03/11 14:16:35.000.074,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 14:16:48.000.131,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\model\wk.model.pedido.pas</Transaction>
+    <Transaction>2022/03/11 14:18:35.000.397,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 14:18:54.000.749,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\controller\wk.controller.pedido.pas</Transaction>
+    <Transaction>2022/03/11 14:19:02.000.157,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 14:19:11.000.169,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\model\wk.model.pedidoitem.pas</Transaction>
+    <Transaction>2022/03/11 14:31:16.000.311,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 14:32:34.000.532,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\model\wk.model.cliente.pas</Transaction>
+    <Transaction>2022/03/11 14:32:52.000.288,=C:\TESTE\WK\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 14:32:59.000.871,C:\TESTE\WK\Unit1.pas=C:\TESTE\WK\controller\wk.controller.cliente.pas</Transaction>
+    <Transaction>2022/03/11 14:33:26.000.739,=C:\TESTE\WK\Unit2.pas</Transaction>
+    <Transaction>2022/03/11 14:33:34.000.554,C:\TESTE\WK\Unit2.pas=C:\TESTE\WK\dao\wk.dao.cliente.pas</Transaction>
+    <Transaction>2022/03/11 14:33:34.000.554,C:\TESTE\WK\Unit2.dfm=C:\TESTE\WK\dao\wk.dao.cliente.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
